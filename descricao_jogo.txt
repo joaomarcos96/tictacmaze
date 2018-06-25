@@ -1,0 +1,8 @@
+Descrição do jogo TIC TAC MAZE:
+-- Labirinto gerado aleatoriamente.
+-- O jogador (quadrado branco) deve alcançar o alvo (quadrado vermelho) no tempo estipulado.
+-- Há 10 fases, sendo a última com o menor tempo, aumentando a dificuldade lentamente a cada fase.
+-- Caso consiga passar as 10 fases, vence o jogo. Caso o tempo acabe, é Game Over.
+
+Execute com Python 3
+
